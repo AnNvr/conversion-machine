@@ -1,2 +1,8 @@
-# conversion-machine
-A metric system converter to help our fellows americans sorting conversions out :D
+Quick start:
+
+```
+$ npm install
+$ npm start
+````
+
+Head over to https://vitejs.dev/ to learn more about using vite
